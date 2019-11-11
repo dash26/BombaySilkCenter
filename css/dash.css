@@ -1,0 +1,173 @@
+.iframe1{
+
+    width: 100%;
+    height: 15em;
+    text-align: center;
+}
+
+.contact{
+  margin-top: -8%;
+}
+
+.jumbotron{
+background-color: #3f3ead;
+/*background-color:#2E2D88;*/
+color:white;
+}
+/* Adds borders for tabs */
+.tab-content {
+border-left: 1px solid #ddd;
+border-right: 1px solid #ddd;
+border-bottom: 1px solid #ddd;
+padding: 10px;
+}
+.nav-tabs {
+margin-bottom: 0;
+}
+.textinjumbo{
+text-align: center;
+font-size:1.5em;
+}
+.average_disp{
+font-size:1.5em;
+text-align: center;
+font-weight: bold;
+}
+footer{
+background-color: #3f3ead;
+color: white;
+height: 10em;
+}
+.footer2{
+background-color: #2E2D88;
+
+}
+
+.handicraft{
+width: 85px;
+height: 81.1px;
+}
+
+.icons{
+width: 0.5em;
+height: 0.5em;
+
+}
+.icons:hover{
+padding-left: 4px;
+}
+.row1{
+width: 100%;
+height: 30%;
+text-align: center;
+
+}
+.row_1{
+margin-left: auto;
+
+}
+.row_2{
+margin-left: 1%;
+
+}
+.row_3{
+margin-left: 1%;
+
+}
+.row_4{
+margin-left: 1%;
+
+}
+.socialmedia{
+
+font-size: 1.7em;
+}
+.bg-dark1{
+height: 10%;
+width: 100%;
+background-color:#212529;
+}
+.bg-dark-top{
+width: 100%;
+background-color:#212529;
+height: 25%;
+}
+.inside-text{
+padding-top: 6%;
+}
+
+#return-to-top {
+position: fixed;
+bottom: 20px;
+right: 20px;
+background: rgb(0, 0, 0);
+background: rgba(0, 0, 0, 0.7);
+width: 50px;
+height: 50px;
+display: block;
+text-decoration: none;
+text-align: center;
+-webkit-border-radius: 35px;
+-moz-border-radius: 35px;
+border-radius: 35px;
+display: none;
+-webkit-transition: all 0.3s linear;
+-moz-transition: all 0.3s ease;
+-ms-transition: all 0.3s ease;
+-o-transition: all 0.3s ease;
+transition: all 0.3s ease;
+}
+#return-to-top i {
+color: #fff;
+margin: 0;
+position: relative;
+left: 16px;
+top: 13px;
+font-size: 19px;
+-webkit-transition: all 0.3s ease;
+-moz-transition: all 0.3s ease;
+-ms-transition: all 0.3s ease;
+-o-transition: all 0.3s ease;
+transition: all 0.3s ease;
+}
+#return-to-top:hover {
+background: rgba(0, 0, 0, 0.9);
+}
+#return-to-top:hover i {
+color: #fff;
+top: 5px;
+}
+.up{
+color:white;
+font-weight: bold;
+font-size: 30px;
+font-family: sans-serif;
+position: absolute;
+margin-top: 15%;
+margin-left: -8px;
+
+}
+/*
+.ending{
+  text-decoration:none;
+  color: white;
+}
+.ending:hover{
+  text-decoration:none;
+  color: #f05f40;
+}*/
+.powered-by{
+  font-size: 15px;
+  color: #2e2d88;
+}
+.powered-by:hover{
+  color: white;
+
+}
+
+.creditors{
+  font-size: 17px;
+}
+
+/* Extra Things */
+body{background: #eee ;font-family: 'Open Sans', sans-serif;}h3{font-size: 30px; font-weight: 400;text-align: center;margin-top: 50px;}h3 i{color: #444;}
